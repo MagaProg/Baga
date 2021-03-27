@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Bagandov\Bagandov\bin\x86\Debug\Database1.mdf
+C:\Users\user\source\repos\Bagandov\Bagandov\bin\x86\Debug\Database1_log.ldf
+C:\Users\user\source\repos\Bagandov\Bagandov\bin\x86\Debug\Bagandov.exe.config
+C:\Users\user\source\repos\Bagandov\Bagandov\bin\x86\Debug\Bagandov.exe
+C:\Users\user\source\repos\Bagandov\Bagandov\bin\x86\Debug\Bagandov.pdb
+C:\Users\user\source\repos\Bagandov\Bagandov\obj\x86\Debug\Bagandov.Form1.resources
+C:\Users\user\source\repos\Bagandov\Bagandov\obj\x86\Debug\Bagandov.Form2.resources
+C:\Users\user\source\repos\Bagandov\Bagandov\obj\x86\Debug\Bagandov.Form3.resources
+C:\Users\user\source\repos\Bagandov\Bagandov\obj\x86\Debug\Bagandov.Form4.resources
+C:\Users\user\source\repos\Bagandov\Bagandov\obj\x86\Debug\Bagandov.Properties.Resources.resources
+C:\Users\user\source\repos\Bagandov\Bagandov\obj\x86\Debug\Bagandov.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Bagandov\Bagandov\obj\x86\Debug\Bagandov.exe
+C:\Users\user\source\repos\Bagandov\Bagandov\obj\x86\Debug\Bagandov.pdb
+C:\Users\user\source\repos\Bagandov\Bagandov\obj\x86\Debug\Bagandov.csprojAssemblyReference.cache
